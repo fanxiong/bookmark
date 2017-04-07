@@ -2,13 +2,17 @@
 A collection of site or page for good or useful.
 
 # 索引
-1. 计算机基础技术
-2. 应用层技术
-   1. [区块链技术](https://github.com/fanxiong/bookmark/blob/master/README.md#区块链技术)
+1. [计算机基础技术](#计算机基础技术)
+2. [应用层技术](#应用层技术)
+   1. [区块链技术](#区块链技术)
    2. [人工智能](#人工智能)
-3. 基础学科知识
-4. 人文社科
-5. 公司
+3. [工具](#工具)
+   1. [离线工具](#离线工具)
+   2. [在线工具](#在线工具)
+3. [基础学科知识](#基础学科知识)
+4. [人文社科](#人文社科)
+5. [公司](#公司)
+6. [常用文档](#常用文档)
 
 # 正文
 
@@ -17,12 +21,40 @@ A collection of site or page for good or useful.
 ## 应用层技术
 
 ### 区块链技术
+* [Solidity](http://solidity.readthedocs.io/zh/stable/index.html) solidity语言官方详解(文档、示例、安装、使用)
+* [testrpc](https://github.com/ethereumjs/testrpc) 用于开发和测试以太坊程序的客户端
+  testrpc is a Node.js based Ethereum client for testing and development. It uses ethereumjs to simulate full client behavior and make developing Ethereum applications much faster. It also includes all popular RPC functions and features (like events) and can be run deterministically to make development a breeze.
+  **testrpc** 是一个基于ethereumjs的用于测试和开发的Nodejs客户端。其使用ethereumjs模拟完全的客户端行为，并使开发以太坊应用更快。它也包含所有的流行RPC函数和特性(如事件)，可被确定地运行，以使开发轻而易举。
+* [brwser-solidity](http://ethereum.github.io/browser-solidity/) web版的solidity IDE
+* [Truffle](http://truffleframework.com/) 以太坊测试框架
 
 ### 人工智能
 
+* [openAI](https://github.com/openai)
+
+## 工具
+
+### 离线工具
+
+### 在线工具
+* [processon](http://processon.com/) 一个在线作图工具，可以画UML、思维导图、流程图...
+* [desmos](https://www.desmos.com/calculator) 一款数学图形作图应用，可以实现参数动画演示
 
 ## 基础学科知识
 
 ## 人文社科
 
 ## 公司
+
+## 常用文档
+
+* [markdown](http://daringfireball.net/projects/markdown/syntax)
+* [NodeJs](https://nodejs.org/api/) (最新版本)
+  * [Node.js 0.10.x](https://nodejs.org/docs/latest-v0.10.x/api/)
+  * [Node.js 0.12.x](https://nodejs.org/docs/latest-v0.12.x/api/)
+  * [Node.js 4.x](https://nodejs.org/docs/latest-v4.x/api/)
+  * [Node.js 5.x](https://nodejs.org/docs/latest-v5.x/api/)
+  * [Node.js 6.x LTS](https://nodejs.org/docs/latest-v6.x/api/)
+  * [Node.js 7.x](https://nodejs.org/docs/latest-v7.x/api/)
+* [javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) MDN(Mozilla Developer Network) javascript 文档 (**中文版**)
+* [git 使用说明](https://git-scm.com/book/zh/v2) git使用说明(中文版)
