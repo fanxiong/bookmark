@@ -1,5 +1,5 @@
-# bookmark
-A collection of site or page for good or useful.
+# 简介
+好/有用的网站、页面的集合
 
 # 索引
 1. [计算机基础技术](#计算机基础技术)
