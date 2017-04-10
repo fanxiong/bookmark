@@ -31,6 +31,7 @@
 ### 人工智能
 
 * [openAI](https://github.com/openai)
+* [机器学习日报](http://forum.ai100.com.cn/) 好东西传送门产品
 
 ## 工具
 
