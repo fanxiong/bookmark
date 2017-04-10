@@ -40,11 +40,11 @@
 * [processon](http://processon.com/) 一个在线作图工具，可以画UML、思维导图、流程图...
 * [desmos](https://www.desmos.com/calculator) 一款数学图形作图应用，可以实现参数动画演示
 * 文本比较工具
-  - [diffchecker](https://www.diffchecker.com/diff) 可以以词为单位做行内比较。前端比较，非常快速
-  - [quickdiff](http://www.quickdiff.com/) 以行为单位做比较。前端比较
-  - [diffNow](https://www.diffnow.com/) 以词为单位做行内比较。最精细，但网站加载和比较都较慢。服务端比较
-  - [jsonDiff](http://json-diff.com/) JSON比较工具。前端比较
-  - [mergely](http://www.mergely.com/editor) 比较+合并工具。前端比较
+  - [diffchecker](https://www.diffchecker.com/diff) 可以以词为单位做行内比较。**前端比较，非常快速**
+  - [quickdiff](http://www.quickdiff.com/) 以行为单位做比较。**前端比较**
+  - [diffNow](https://www.diffnow.com/) 以词为单位做行内比较。最精细，但网站加载和比较都较慢。**服务端比较**
+  - [jsonDiff](http://json-diff.com/) JSON比较工具。**前端比较**
+  - [mergely](http://www.mergely.com/editor) 比较+合并工具。**前端比较**
 
 ## 基础学科知识
 
