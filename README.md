@@ -13,6 +13,7 @@
 4. [人文社科](#人文社科)
 5. [公司](#公司)
 6. [常用文档](#常用文档)
+7. [其它文档](#其它文档)
 
 # 正文
 
@@ -36,6 +37,7 @@
 ## 工具
 
 ### 离线工具
+* [Google Chrome](http://www.google.cn/chrome/browser/desktop/index.html?standalone=1&platform=win64) 64位独立安装包(平台在页面选择)
 
 ### 在线工具
 * [processon](http://processon.com/) 一个在线作图工具，可以画UML、思维导图、流程图...
@@ -55,6 +57,7 @@
 
 ## 常用文档
 
+### 语言文档
 * [markdown](http://daringfireball.net/projects/markdown/syntax) 语法文档
 * [NodeJs](https://nodejs.org/api/) 文档(最新版本)
   * [v0.10.x](https://nodejs.org/docs/latest-v0.10.x/api/)
@@ -64,4 +67,18 @@
   * [v6.x LTS](https://nodejs.org/docs/latest-v6.x/api/)
   * [v7.x](https://nodejs.org/docs/latest-v7.x/api/)
 * [javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) MDN(Mozilla Developer Network) javascript 文档 (**中文版**)
+
+### SDK/开发库文档
+
+* [jQuery官方文档](http://api.jquery.com/)
+* [Redis官方文档](https://redis.io/documentation)
+  * [Redis文档中文版](http://redis.cn/documentation.html)
+
+
+### 工具手册
+
 * [git 使用说明](https://git-scm.com/book/zh/v2) git使用说明(中文版)
+
+## 其它文档
+
+* [Nginx 开发从入门到精通](http://tengine.taobao.org/book/) 淘宝Tengine团队翻译(撰写)的nginx技术介绍文档，亦可用于指导开发
